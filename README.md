@@ -34,6 +34,7 @@ While recording, you can decide between three different modes:
 ![](https://github.com/fraaaaa4/snip2002/blob/main/1.gif)
 
 - Pointer: the recording is always centered on your mouse
+
 ![](https://github.com/fraaaaa4/snip2002/blob/main/2.gif)
 
 - Fixed: records the area of the screen you've set. To set it up, just press "Capture Area" to open where the recording will take place; then, you can move the area around the screen, or resize it as you wish.
