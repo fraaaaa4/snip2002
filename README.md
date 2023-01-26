@@ -30,9 +30,11 @@ Screen Snip also includes a recording feature, which lets you record your screen
 ## Recording features
 While recording, you can decide between three different modes:
 - Follow: the recording smoothly follows your mouse around your screen, best when you are moving a lot around the screen and want a smooth record
-
+![](https://github.com/fraaaaa4/snip2002/blob/main/1.gif)
 - Pointer: the recording is always centered on your mouse
+![](https://github.com/fraaaaa4/snip2002/blob/main/2.gif)
 - Fixed: records the area of the screen you've set. To set it up, just press "Capture Area" to open where the recording will take place; then, you can move thearea around the screen, or resize it as you wish.
+![](https://github.com/fraaaaa4/snip2002/blob/main/3.gif)
 
 Additionally, you can decide between a variety of options, including the ability of having mouse clicks highlighted, not recording the mouse pointer, or also recording your entire screen.
 Unlike the brand new Windows 11 Snipping Tool also, this one has also a timeout feature when you record, so you can adjust whatever you want before hitting "Record".
